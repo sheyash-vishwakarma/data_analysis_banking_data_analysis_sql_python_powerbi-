@@ -1,5 +1,8 @@
 Banking Data Analysis using EDA and Power BI
-One-line Summary
+
+
+
+Summary
 This project applies Exploratory Data Analysis (EDA) and interactive visualization to a comprehensive banking dataset to uncover actionable business insights.
 
 Overview

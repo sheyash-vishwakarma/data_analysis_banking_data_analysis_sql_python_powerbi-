@@ -38,13 +38,17 @@ Customer Demographics Matter: The data shows that males are slightly more active
 
 Income is a Key Driver: There is a strong correlation between high-income customers and a higher volume of loans.
 
-Geographic Trends: European customers have the highest deposit volumes and are the dominant segment across all fee tiers, presenting a significant opportunity for product cross-selling.
+Geographic Trends: 
+European customers have the highest deposit volumes and are the dominant segment across all fee tiers, presenting a significant opportunity for product cross-selling.
 
-Product Opportunities: The majority of customers hold only one credit card, indicating a substantial opportunity to increase revenue by marketing additional card products to the existing client base.
+Product Opportunities: 
+The majority of customers hold only one credit card, indicating a substantial opportunity to increase revenue by marketing additional card products to the existing client base.
 
 Account Correlation: A strong positive correlation exists between various accounts, such as Bank Deposits and Checking Accounts, suggesting that customers with high deposit balances are prime candidates for cross-selling.
 
 Future Work
+
+
 This project provides a strong foundation for future data-driven initiatives. Potential next steps include:
 
 Predictive Modeling: Building models to forecast customer churn or identify future product interests.
